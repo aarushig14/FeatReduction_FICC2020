@@ -15,3 +15,6 @@ In this paper, we deal with the issue of feature selection by comparing differen
 
 ### See Publication: 
 https://link.springer.com/chapter/10.1007/978-3-030-39442-4_1 
+
+### Video Presentation
+https://drive.google.com/file/d/1NDD9nicYeNdfH5vInHUf4jbmzvcAi32q/view?usp=sharing
